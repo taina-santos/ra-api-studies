@@ -35,3 +35,4 @@ mentioned above.
 * Push postman collection with the test scenarios reflected in this project
 * Finish products and cart test cases in postman
 * Create the service and api structure for user, products, cart
+* Refactor the project to use resources properties files
