@@ -1,10 +1,8 @@
 # Overview
 
-Project to study Rest Assured framework for API testing, creating test cases and scenarios, 
-implementing the test suite
-
-This project use ServeRest, a free API which simulate an online store, made with purpose to 
-study API testing.
+Project to study Rest Assured framework with java for API testing, creating test cases and scenarios, 
+implementing the test suite. This project use ServeRest, a free API which simulate an online store, 
+made with purpose to study API testing
 
 ## Postman collection
 Before implementing in rest assured, the tests are done in postman, to validate the scenarios
