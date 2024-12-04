@@ -1,6 +1,6 @@
 package login.service;
 
-import core.KeysURL;
+import utils.KeysURL;
 import io.restassured.response.Response;
 
 import java.util.HashMap;

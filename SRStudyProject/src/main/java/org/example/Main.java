@@ -48,7 +48,7 @@ public class Main {
 
     }
 
-    private static void countOccurrences(String str){
+    private static void countOccurrences(int[] numberList, int num){
 
     }
 
